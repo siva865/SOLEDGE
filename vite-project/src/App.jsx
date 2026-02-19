@@ -1,9 +1,9 @@
 import Navbar from "./Components/Navbar";
-import Home from "./components/Home";
+import Home from "./Components/Home";
 import About from "./components/About";
 import Interest from "./components/Intrest";
-import Who from "./components/Who";
-import Footer from "./components/Footer";
+import Who from "./Components/Who";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
