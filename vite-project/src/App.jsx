@@ -1,7 +1,7 @@
 import Navbar from "./Components/Navbar";
 import Home from "./Components/Home";
-import About from "./components/About";
-import Interest from "./components/Intrest";
+import About from "./Components/About";
+import Interest from "./Components/Intrest";
 import Who from "./Components/Who";
 import Footer from "./Components/Footer";
 
